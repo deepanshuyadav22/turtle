@@ -1,4 +1,4 @@
-import turtle   
+import turtle
 t = turtle.Turtle()
 
 for i in range(0,3):
